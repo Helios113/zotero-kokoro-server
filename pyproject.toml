@@ -2,9 +2,6 @@
 requires = ["hatchling>=1.21"]
 build-backend = "hatchling.build"
 
-[tool.uv]
-python-version = "3.11"
-
 [project]
 name = "zotero-kokoro-server"
 version = "0.1.0"
